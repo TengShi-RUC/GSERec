@@ -1,4 +1,4 @@
-## GSERec
+## GSERec: Benefit from Rich: Tackling Search Interaction Sparsity in Search Enhanced Recommendation
 This is the official implementation of **GSERec**.
 
 ---
